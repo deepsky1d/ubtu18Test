@@ -1,1 +1,8 @@
-Show all hidden files. If you want to see all hidden files in a folder, go to that folder and either click the view options button in the toolbar and pick Show Hidden Files, or press Ctrl + H . You will see all hidden files, along with regular files that are not hidden.
+Show all hidden files. If you want to see all hidden files in a folder, go to that folder and either click the view options button in the toolbar and pick Show Hidden Files, or press Ctrl + H . You will see all hidden files, along with regular files that are not hidden
+
+modified by deepak
+
+git add *.*  	- will add all files
+git add . 	- in that perticular project directory
+git add *.txt 	- all txt file
+
